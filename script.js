@@ -17,7 +17,7 @@ console.log(person);
 function processForm() {
     console.log("click");
     // TODO: prevent this function from reloading the page when the form is submitted
-    event.preventDefault
+    event.preventDefault()
 
     // TODO: Create a newUser object that has all the user's info from the form
     let newUser = {
